@@ -5,15 +5,17 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>283F168D-4211-46A2-B0DD-AAAD048D849A</string>
+	<string>AFD43C51-15E8-43F0-96AC-A06D798967F9</string>
 	<key>IDESourceControlProjectName</key>
 	<string>T.M.D.ERP</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>03C46A02-B1C7-480F-8B19-E7DE33460F31</key>
-		<string>https://github.com/suchavision/T.M.D.ERP.git</string>
 		<key>3DCFBFF2-DFAC-49B9-A4EB-7B7079CF71F0</key>
 		<string>https://github.com/isaacselement/Modules.git</string>
+		<key>51F8D217-26EC-4631-8A1B-CD8D8528633D</key>
+		<string>https://github.com/kevinyby/XinYuanERP.git</string>
+		<key>603D7CD6-7BC3-49F0-8246-551AC2C64CD6</key>
+		<string>https://github.com/wdanxna/Libraries.git</string>
 		<key>E4372864-2B5B-444A-8D06-18F7C51B89D3</key>
 		<string>svn://192.168.0.161/TMDResources</string>
 	</dict>
@@ -21,10 +23,12 @@
 	<string>T.M.D.ERP.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>03C46A02-B1C7-480F-8B19-E7DE33460F31</key>
-		<string>../..</string>
 		<key>3DCFBFF2-DFAC-49B9-A4EB-7B7079CF71F0</key>
 		<string>../../../../Modules</string>
+		<key>51F8D217-26EC-4631-8A1B-CD8D8528633D</key>
+		<string>../..</string>
+		<key>603D7CD6-7BC3-49F0-8246-551AC2C64CD6</key>
+		<string>../../T.M.D.ERP/Libraries</string>
 		<key>E4372864-2B5B-444A-8D06-18F7C51B89D3</key>
 		<string>../../../TMDResources</string>
 	</dict>
@@ -34,13 +38,21 @@
 		<string>svn://192.168.0.161</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/suchavision/T.M.D.ERP.git</string>
+	<string>https://github.com/kevinyby/XinYuanERP.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>03C46A02-B1C7-480F-8B19-E7DE33460F31</string>
+	<string>51F8D217-26EC-4631-8A1B-CD8D8528633D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>603D7CD6-7BC3-49F0-8246-551AC2C64CD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Libraries</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -53,7 +65,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>03C46A02-B1C7-480F-8B19-E7DE33460F31</string>
+			<string>51F8D217-26EC-4631-8A1B-CD8D8528633D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>T.M.D.ERP</string>
 		</dict>
