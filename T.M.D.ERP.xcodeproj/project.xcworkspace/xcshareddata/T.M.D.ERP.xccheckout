@@ -10,35 +10,39 @@
 	<string>T.M.D.ERP</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>382CF808FA8CFA837D2AEBBBB6B28956273A1D3B</key>
+		<string>https://github.com/isaacselement/Modules.git</string>
 		<key>3DCFBFF2-DFAC-49B9-A4EB-7B7079CF71F0</key>
 		<string>https://github.com/isaacselement/Modules.git</string>
-		<key>B17798B9-FCDB-4600-A518-F2E014CD49DD</key>
+		<key>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</key>
 		<string>https://github.com/suchavision/T.M.D.ERP.git</string>
-		<key>E4372864-2B5B-444A-8D06-18F7C51B89D3</key>
+		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
 		<string>svn://192.168.0.161/TMDResources</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>T.M.D.ERP.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>382CF808FA8CFA837D2AEBBBB6B28956273A1D3B</key>
+		<string>../../../Modules</string>
 		<key>3DCFBFF2-DFAC-49B9-A4EB-7B7079CF71F0</key>
-		<string>../../../../Modules</string>
-		<key>B17798B9-FCDB-4600-A518-F2E014CD49DD</key>
+		<string>../../../Modules</string>
+		<key>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</key>
 		<string>../..</string>
-		<key>E4372864-2B5B-444A-8D06-18F7C51B89D3</key>
+		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
 		<string>../../../TMDResources</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
-		<key>E4372864-2B5B-444A-8D06-18F7C51B89D3</key>
+		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
 		<string>svn://192.168.0.161</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/suchavision/T.M.D.ERP.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B17798B9-FCDB-4600-A518-F2E014CD49DD</string>
+	<string>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -53,7 +57,15 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B17798B9-FCDB-4600-A518-F2E014CD49DD</string>
+			<string>382CF808FA8CFA837D2AEBBBB6B28956273A1D3B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Modules</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>T.M.D.ERP</string>
 		</dict>
@@ -61,7 +73,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E4372864-2B5B-444A-8D06-18F7C51B89D3</string>
+			<string>a1f9485f-f45f-40b3-aabf-940778114989++2268</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TMDResources</string>
 		</dict>
