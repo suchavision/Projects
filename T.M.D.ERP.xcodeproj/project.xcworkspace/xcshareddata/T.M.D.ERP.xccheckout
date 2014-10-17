@@ -16,7 +16,7 @@
 		<string>https://github.com/isaacselement/Modules.git</string>
 		<key>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</key>
 		<string>https://github.com/suchavision/T.M.D.ERP.git</string>
-		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
+		<key>c48f15ac-b31b-4ad6-875f-f4db520325bb++2268</key>
 		<string>svn://192.168.0.161/TMDResources</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
@@ -29,12 +29,12 @@
 		<string>../../../Modules</string>
 		<key>E03121032B4BC446C3456B99B5CC01D3F03B4FC5</key>
 		<string>../..</string>
-		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
+		<key>c48f15ac-b31b-4ad6-875f-f4db520325bb++2268</key>
 		<string>../../../TMDResources</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
-		<key>a1f9485f-f45f-40b3-aabf-940778114989++2268</key>
+		<key>c48f15ac-b31b-4ad6-875f-f4db520325bb++2268</key>
 		<string>svn://192.168.0.161</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -73,7 +73,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>a1f9485f-f45f-40b3-aabf-940778114989++2268</string>
+			<string>c48f15ac-b31b-4ad6-875f-f4db520325bb++2268</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TMDResources</string>
 		</dict>
